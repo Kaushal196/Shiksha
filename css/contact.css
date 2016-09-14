@@ -1,0 +1,68 @@
+
+#form-style-8{
+    font-family: 'Open Sans Condensed', arial, sans;
+    padding: 30px;
+    background: #FFFFFF;
+    margin-top: -100px;
+}
+#form-style-8 input[type="text"],
+#form-style-8 input[type="date"],
+#form-style-8 input[type="datetime"],
+#form-style-8 input[type="email"],
+#form-style-8 input[type="number"],
+#form-style-8 input[type="tel"],
+#form-style-8 input[type="time"],
+#form-style-8 input[type="url"],
+#form-style-8 input[type="password"],
+#form-style-8 textarea,
+#form-style-8 select
+{
+    outline: none;
+    width: 300px;
+    padding:40px 0px 0px 7px ;
+    border: none;
+    border-bottom: 1px solid #ddd;
+    background: transparent;
+    margin-bottom: -5px;
+    font: 14px Arial, Helvetica, sans-serif;
+    height: 65px;
+}
+#form-style-8 input[type="submit"]{
+    background: rgb(255, 204, 0);
+    border-style: none;
+    color: #FFFFFF;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 14px;
+    padding: 8px 5px 8px 5px;
+    border-radius: 40px;
+    margin: 50px 0px 0px 195px;
+    height:50px;
+}
+label
+{
+	padding-top:65px;
+    display: table-cell;
+    width: 1px;
+    white-space: nowrap;
+    opacity:0.4;
+    font-size: 11px;
+}
+span {
+    display: table-cell;
+    padding: 0 0 0 30px;
+}
+input
+ {
+    width: 50%;
+}
+#name
+{
+width:300px;
+margin-top:20px;
+
+}
+#submit:focus
+{
+	outline:none;
+	border-width:
+}
